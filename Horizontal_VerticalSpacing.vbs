@@ -1,0 +1,1 @@
+MsgBox "Message1" &vbLf&vbLf& "Message2"
