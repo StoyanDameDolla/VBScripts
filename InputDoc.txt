@@ -1,0 +1,10 @@
+Gloria Little	Systems Administrator	New York	59	2009/04/10
+Haley Kennedy	Senior Marketing Designer	London	43	2012/12/18
+Hermione Butler	Regional Director	London	47	2011/03/21
+Herrod Chandler	Sales Assistant	San Francisco	59	2012/08/06
+Hope Fuentes	Secretary	San Francisco	41	2010/02/12
+Howard Hatfield	Office Manager	San Francisco	51	2008/12/16
+Jackson Bradshaw	Director	New York	65	2008/09/26
+Jena Gaines	Office Manager	London	30	2008/12/19
+Jenette Caldwell	Development Lead	New York	30	2011/09/03
+Jennifer Acosta	Junior Javascript Developer	Edinburgh	43	2013/02/01
